@@ -2,6 +2,8 @@
 
 The Flask Number Guessing Game is a simple web-based game where you need to guess a number between 0 and 9. It provides feedback and entertaining GIFs based on your guesses.
 
+<img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width=50%/>
+
 ## Features
 
 - Guess a number between 0 and 9.
